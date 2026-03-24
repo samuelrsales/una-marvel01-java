@@ -1,3 +1,4 @@
+package ProjetoRenascimento;
 public class ProjetoRenascimento {
     public static void main(String[] args) {
         boolean possuiCoragem = true;
